@@ -1,0 +1,27 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    font-size: 350%;
+    text-shadow: 2px 2px 8px;
+    background-color: rgb(233, 202, 165);
+    margin-top: 3%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+.címek{
+    font-size: 250%;
+}
+.egész{
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color: rgb(233, 202, 165);
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
